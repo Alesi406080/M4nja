@@ -11,7 +11,7 @@ w=('\033[1;35m')
 print ("""\033[1;35m
 
 	   \033[1;35m \\\\\\\\/////
-	    ---------	\033[1;33mSPAM CALL MASSAL v.2.0
+	    ---------	\033[1;33mSPAM CALL v.2.0
 \033[1;35m	   / __    __\	\033[1;33mAuthor: KHAZUL YUSSERY
 	   |  0\  /0 |	\033[1;33msIG    : khazulyussery_
 	    \    |  /
